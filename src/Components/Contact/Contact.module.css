@@ -1,0 +1,13 @@
+.backgroundColor{
+    background-color: #1abc9c;
+}
+
+.line {
+    background-color: #2c3d50;
+    height: 4px;
+    width: 80px;
+}
+
+.textColor {
+    color: #2c3d50;
+}

@@ -1,0 +1,37 @@
+.line {
+    background-color: #2c3d50;
+    height: 4px;
+    width: 80px;
+}
+
+.textColor {
+    color: #2c3d50;
+}
+
+.itemBackground {
+    opacity: 0; 
+    transition: all 0.5s;
+}
+
+.itemBackground:hover {
+    background-color: #1abc9c;
+    opacity: 0.8;
+}
+
+.none {
+    display: none;
+}
+
+.index {
+    z-index: 9999999999999;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.mainimage {
+   background-image: url(../../Assets/Images/poert1.png);
+   background-position: center center;
+   background-size: cover;
+   height: 70vh;
+   width: 40%;
+   opacity: 1 !important;
+}
