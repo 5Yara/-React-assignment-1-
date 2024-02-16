@@ -15,7 +15,7 @@ export default function Portfolio() {
 
 
 
-        <div className='py-5'>
+        <div className='py-5y'>
 
             <div className="pt-4 text-center">
                 <h2 className={style.textColor}>PORTFOLIO COMPONENT</h2>
